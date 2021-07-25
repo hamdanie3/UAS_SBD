@@ -4,7 +4,8 @@ NAMA  : HAMDANI
 NIM   : 311910086
 
 KELAS : TI.19.B2
-
+https://youtu.be/HjBLbTQ5Re8
+****
 1. TAMPILAN LOGIN
 
   ![1](https://user-images.githubusercontent.com/83238586/126886309-7b41eaf9-4f42-4c5b-a556-1d24c7eb2824.PNG)
@@ -33,6 +34,8 @@ KELAS : TI.19.B2
 6. TAMPILAN TABEL PENGADUAN
 
   ![6](https://user-images.githubusercontent.com/83238586/126886485-40a271a5-5d3b-4f21-b8c6-bb1329c8d116.PNG)
+  
+ 
   
   
 7. TAMPILAN CETAK / PRINT
